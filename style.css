@@ -118,6 +118,12 @@ main {
   font-size: 1.2rem;
 }
 
+.sorter {
+  width: 90%;
+  margin: 0 auto;
+  padding: 6px;
+} /* div class "sorter" b/w header and main */
+
 
 @media screen and (min-width: 600px) {
   main {
